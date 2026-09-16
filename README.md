@@ -206,7 +206,3 @@ Once activated:
 ## Author
 
 Built by **Jay Jogarajiya**.
-
----
-
-*Originally created and tested June 9, 2025. Last updated: September 2026.*
